@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Parametros do SGBD</comment>
+<entry key="senhaBanco">admin</entry>
+<entry key="urlBanco">jdbc:postgresql://localhost:5433/EFS</entry>
+<entry key="driverJDBC">org.postgresql.Driver</entry>
+<entry key="nomeUsuario">postgres</entry>
+</properties>
